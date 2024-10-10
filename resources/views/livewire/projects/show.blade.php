@@ -2,7 +2,5 @@
     
     <x-projects.card :$project />
 
-    
-
 </div>    
 

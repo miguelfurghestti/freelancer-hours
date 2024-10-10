@@ -6,7 +6,6 @@
     
         <livewire:projects.proposals :$project />
 
-
     </div>
 
     
